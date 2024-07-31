@@ -1,1 +1,2 @@
-
+# Logistic Regression
+Logistic regression models to predict whether a student gets admitted into a university and whether microchips from a fabrication plant passes QA (quality assurance)! I wrote a sigmoid() function to compute the sigmoid of an array for logistic regression, a compute_cost() function to compute the cost for all examples of the logistic regression, a compute_gradient() function for the gradient descent algorithm for logistic regression, a predict() function to predict whether the label is 0 or 1 using learned logistic regression parameters w, and a compute_cost_reg() function to compute the cost over all examples for the logistic regression model.

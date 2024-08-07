@@ -1,1 +1,1 @@
-
+Implementing the anomaly detection algorithm and applying it to monitor computer servers to identify potentially failing (anomalous) servers! I completed the estimate_gaussian() function below to calculate mu (mean for each feature in X) and var (variance for each feature in X), as well as the select_threshold() function below to find the best threshold to use for selecting outliers based on the results from the validation set (p_val) and the ground truth (y_val).
